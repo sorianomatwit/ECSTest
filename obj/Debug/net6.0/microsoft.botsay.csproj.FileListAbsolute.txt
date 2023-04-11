@@ -1,0 +1,15 @@
+C:\Users\xxmeg\OneDrive\Documents\Programming stuff\DOD practice\MyGame\microsoft.botsay\bin\Debug\net6.0\microsoft.botsay.exe
+C:\Users\xxmeg\OneDrive\Documents\Programming stuff\DOD practice\MyGame\microsoft.botsay\bin\Debug\net6.0\microsoft.botsay.deps.json
+C:\Users\xxmeg\OneDrive\Documents\Programming stuff\DOD practice\MyGame\microsoft.botsay\bin\Debug\net6.0\microsoft.botsay.runtimeconfig.json
+C:\Users\xxmeg\OneDrive\Documents\Programming stuff\DOD practice\MyGame\microsoft.botsay\bin\Debug\net6.0\microsoft.botsay.dll
+C:\Users\xxmeg\OneDrive\Documents\Programming stuff\DOD practice\MyGame\microsoft.botsay\bin\Debug\net6.0\microsoft.botsay.pdb
+C:\Users\xxmeg\OneDrive\Documents\Programming stuff\DOD practice\MyGame\microsoft.botsay\obj\Debug\net6.0\microsoft.botsay.csproj.AssemblyReference.cache
+C:\Users\xxmeg\OneDrive\Documents\Programming stuff\DOD practice\MyGame\microsoft.botsay\obj\Debug\net6.0\microsoft.botsay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xxmeg\OneDrive\Documents\Programming stuff\DOD practice\MyGame\microsoft.botsay\obj\Debug\net6.0\microsoft.botsay.AssemblyInfoInputs.cache
+C:\Users\xxmeg\OneDrive\Documents\Programming stuff\DOD practice\MyGame\microsoft.botsay\obj\Debug\net6.0\microsoft.botsay.AssemblyInfo.cs
+C:\Users\xxmeg\OneDrive\Documents\Programming stuff\DOD practice\MyGame\microsoft.botsay\obj\Debug\net6.0\microsoft.botsay.csproj.CoreCompileInputs.cache
+C:\Users\xxmeg\OneDrive\Documents\Programming stuff\DOD practice\MyGame\microsoft.botsay\obj\Debug\net6.0\microsoft.botsay.dll
+C:\Users\xxmeg\OneDrive\Documents\Programming stuff\DOD practice\MyGame\microsoft.botsay\obj\Debug\net6.0\refint\microsoft.botsay.dll
+C:\Users\xxmeg\OneDrive\Documents\Programming stuff\DOD practice\MyGame\microsoft.botsay\obj\Debug\net6.0\microsoft.botsay.pdb
+C:\Users\xxmeg\OneDrive\Documents\Programming stuff\DOD practice\MyGame\microsoft.botsay\obj\Debug\net6.0\microsoft.botsay.genruntimeconfig.cache
+C:\Users\xxmeg\OneDrive\Documents\Programming stuff\DOD practice\MyGame\microsoft.botsay\obj\Debug\net6.0\ref\microsoft.botsay.dll
