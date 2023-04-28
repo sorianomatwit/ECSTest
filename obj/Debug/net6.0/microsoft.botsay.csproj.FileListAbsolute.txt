@@ -13,3 +13,5 @@ C:\Users\xxmeg\OneDrive\Documents\Programming stuff\DOD practice\MyGame\microsof
 C:\Users\xxmeg\OneDrive\Documents\Programming stuff\DOD practice\MyGame\microsoft.botsay\obj\Debug\net6.0\microsoft.botsay.pdb
 C:\Users\xxmeg\OneDrive\Documents\Programming stuff\DOD practice\MyGame\microsoft.botsay\obj\Debug\net6.0\microsoft.botsay.genruntimeconfig.cache
 C:\Users\xxmeg\OneDrive\Documents\Programming stuff\DOD practice\MyGame\microsoft.botsay\obj\Debug\net6.0\ref\microsoft.botsay.dll
+C:\Users\xxmeg\OneDrive\Documents\Programming stuff\DOD practice\MyGame\microsoft.botsay\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\xxmeg\OneDrive\Documents\Programming stuff\DOD practice\MyGame\microsoft.botsay\obj\Debug\net6.0\microsoft.botsay.csproj.CopyComplete

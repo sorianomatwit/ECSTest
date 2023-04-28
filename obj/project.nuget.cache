@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "NkqgzYoGQFGjKUzL6cVYZiImzgxdF3cqHmGCB/zhDIZmSTfv4FxVxyUX+mTOIuD1Uo0p3dptfOQfMerAfTocJQ==",
+  "dgSpecHash": "sZHd9p4y0+FdVjAZ0U96SinMsR/v00iJGXUIx8tMg9KFubN3tXYd3ERYvtjQtIXSnC03PzOGTMDdiVUv9YD1Lg==",
   "success": true,
   "projectFilePath": "C:\\Users\\xxmeg\\OneDrive\\Documents\\Programming stuff\\DOD practice\\MyGame\\microsoft.botsay\\microsoft.botsay.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\xxmeg\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\xxmeg\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\xxmeg\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
   "logs": []
 }
